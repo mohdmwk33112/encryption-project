@@ -1,0 +1,30 @@
+H:\year 3 semester 1\project\networkproject\networkproject\obj\Debug\networkproject.csproj.AssemblyReference.cache
+H:\year 3 semester 1\project\networkproject\networkproject\obj\Debug\ChatApp.ChatForm.resources
+H:\year 3 semester 1\project\networkproject\networkproject\obj\Debug\networkproject.Properties.Resources.resources
+H:\year 3 semester 1\project\networkproject\networkproject\obj\Debug\networkproject.csproj.GenerateResource.cache
+H:\year 3 semester 1\project\networkproject\networkproject\obj\Debug\networkproject.csproj.CoreCompileInputs.cache
+H:\year 3 semester 1\project\networkproject\networkproject\bin\Debug\networkproject.exe.config
+H:\year 3 semester 1\project\networkproject\networkproject\bin\Debug\networkproject.exe
+H:\year 3 semester 1\project\networkproject\networkproject\bin\Debug\networkproject.pdb
+H:\year 3 semester 1\project\networkproject\networkproject\obj\Debug\networkproject.exe
+H:\year 3 semester 1\project\networkproject\networkproject\obj\Debug\networkproject.pdb
+H:\year 3 semester 1\networking\try\networkproject\networkproject\bin\Debug\networkproject.exe.config
+H:\year 3 semester 1\networking\try\networkproject\networkproject\bin\Debug\networkproject.exe
+H:\year 3 semester 1\networking\try\networkproject\networkproject\bin\Debug\networkproject.pdb
+H:\year 3 semester 1\networking\try\networkproject\networkproject\obj\Debug\networkproject.csproj.AssemblyReference.cache
+H:\year 3 semester 1\networking\try\networkproject\networkproject\obj\Debug\ChatApp.ChatForm.resources
+H:\year 3 semester 1\networking\try\networkproject\networkproject\obj\Debug\networkproject.Properties.Resources.resources
+H:\year 3 semester 1\networking\try\networkproject\networkproject\obj\Debug\networkproject.csproj.GenerateResource.cache
+H:\year 3 semester 1\networking\try\networkproject\networkproject\obj\Debug\networkproject.csproj.CoreCompileInputs.cache
+H:\year 3 semester 1\networking\try\networkproject\networkproject\obj\Debug\networkproject.exe
+H:\year 3 semester 1\networking\try\networkproject\networkproject\obj\Debug\networkproject.pdb
+C:\Users\User\Desktop\networkproject\networkproject\bin\Debug\networkproject.exe.config
+C:\Users\User\Desktop\networkproject\networkproject\bin\Debug\networkproject.exe
+C:\Users\User\Desktop\networkproject\networkproject\bin\Debug\networkproject.pdb
+C:\Users\User\Desktop\networkproject\networkproject\obj\Debug\networkproject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\networkproject\networkproject\obj\Debug\ChatApp.ChatForm.resources
+C:\Users\User\Desktop\networkproject\networkproject\obj\Debug\networkproject.Properties.Resources.resources
+C:\Users\User\Desktop\networkproject\networkproject\obj\Debug\networkproject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\networkproject\networkproject\obj\Debug\networkproject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\networkproject\networkproject\obj\Debug\networkproject.exe
+C:\Users\User\Desktop\networkproject\networkproject\obj\Debug\networkproject.pdb
